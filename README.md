@@ -1,5 +1,7 @@
 # RAG_SQL_AGENT
 
+Working Demo - : https://youtu.be/c0i47ZBek3Q
+
 An AI-powered  RAG SQL assistant that allows users to ask natural language questions about a PostgreSQL database. The system generates SQL queries, executes them, and provides results along with natural language explanations.
 
 1. Set up a virtual environment
